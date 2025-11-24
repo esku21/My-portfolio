@@ -133,8 +133,8 @@ section{
 
 }
 .home-img img{
-    width: 15vw;
-height: 15vw;
+    width: 20vw;
+height: auto;
     
     border-radius: 50%;
     box-shadow: 0 0 25px var(--main-color);
@@ -210,8 +210,8 @@ height: 15vw;
     background: var(--second--bg-color);
 }
 .about-img img{
-    width: 15vw;
-    height: 15vw;
+    width: 20vw;
+    height: auto;
     border-radius: 50%;
     box-shadow: 0 0 25px var(--main-color);
     transition: 0.4s ease-in-out;
