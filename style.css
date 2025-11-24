@@ -133,9 +133,8 @@ section{
 
 }
 .home-img img{
-    width: 20vw;
-height: auto;
-    
+   width: clamp(100px, 15vw, 200px);
+    height: auto;
     border-radius: 50%;
     box-shadow: 0 0 25px var(--main-color);
     transition: 0.4s ease-in-out;
